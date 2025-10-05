@@ -4,4 +4,5 @@ To run the project in Visual Studio Code you need to:
 3. to run the project use command: python main.py
 
 RESULTS:
-<img width="945" height="580" alt="image" src="https://github.com/user-attachments/assets/40578ac6-b28c-4ea3-b98b-1d5b82412cd4" />
+<img width="1393" height="848" alt="image" src="https://github.com/user-attachments/assets/88ed60d4-85b6-464f-9125-08a292bbeb85" />
+
